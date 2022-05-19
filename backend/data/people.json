@@ -1,0 +1,30 @@
+[
+    {   "id" : 0,
+        "name": "Arvind Kumar",
+        "age": "24",
+        "YOB": 1997,
+        "email":"arvind@gmail.com"
+    },
+
+    {   "id": 1,
+        "name": "AK",
+        "age": "17",
+        "YOB": 2000,
+        "email":"AK@gmail.com"
+    },
+
+    {   "id" :2,
+        "name": "RK",
+        "age": "22",
+        "YOB": 2005,
+        "email":"RK@gmail.com"
+    },
+
+    {   "id": 3,
+        "name": "PK",
+        "age": "19",
+        "YOB": 2002,
+        "email":"PK@gmail.com"
+    }
+
+]
